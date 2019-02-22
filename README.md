@@ -1,7 +1,7 @@
 # Floating Decimal Text Sample
 
 <p align="center">
-<img width="300" height:"700" src="sample.png" title="iOS"/>
+<img width="600" height:"1000" src="sample.png" title="iOS"/>
 </p>
 
 
